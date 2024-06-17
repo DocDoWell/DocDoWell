@@ -2,7 +2,7 @@
 
 👀 I’m interested in owning a comprehensive technical arsenal that will enable me to be an expert on creating distributed, fault tolerant, scalable and secure technological solutions.
 
-🌱 I’m currently learning everything. I really value continuous learning but I'm focusing on: Algorithms And Data Structures, Functional//OOP programming, Microservice Architectures, K8s, Kafka and Vue.js atm.
+🌱 I’m currently learning everything. I really value continuous learning but atm I'm focusing on: Algorithms And Data Structures, Functional//OOP programming, Microservice Architectures, K8s, Kafka and Vue.js atm.
   
   ⚡ Fun fact: I'm CKA certified. 
 
